@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am frontend web developer doing all things creative to make the web a more unique and awesome place.<br>I enjoy bringing a static design or idea to life and learning new technologies.<br>Skilled in creating responsive designs, UI Design, copywriting, and cyber security.<br>Graduated in 2024 with a B.Sc. in Computer Science and Engineering (CSE) from University of Information Technology and Sciences (UITS).
+I am a Software developer doing all things creative to make the web a more unique and awesome place.<br>I enjoy bringing a static design or idea to life and learning new technologies.<br>Skilled in creating responsive designs, UI Design, copywriting, and cyber security.<br>Graduated in 2024 with a B.Sc. in Computer Science and Engineering (CSE) from University of Information Technology and Sciences (UITS).
 
 
 ## 🌐 Socials:
