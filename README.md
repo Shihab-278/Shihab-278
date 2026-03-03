@@ -1,5 +1,12 @@
-# 💫 About Me:
-I am a Software developer doing all things creative to make the web a more unique and awesome place.<br>I enjoy bringing a static design or idea to life and learning new technologies.<br>Skilled in creating responsive designs, UI Design, copywriting, and cyber security.<br>Graduated in 2024 with a B.Sc. in Computer Science and Engineering (CSE) from University of Information Technology and Sciences (UITS).
+💫 About Me
+
+Laravel & Flutter Developer focused on building clean, scalable, and maintainable applications.
+
+I work with Laravel (Livewire, Alpine.js, Services, Repositories, Clean Architecture) and build modular Flutter Android apps with structured UI, local storage, and multi-page navigation.
+
+Passionate about refactoring legacy systems, optimizing queries, and writing organized, efficient code.
+
+🎓 B.Sc. in Computer Science & Engineering (2024)
 
 
 ## 🌐 Socials:
