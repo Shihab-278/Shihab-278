@@ -6,7 +6,17 @@
 
 ## 💫 About Me
 
-Software developer specializing in full-stack web applications with **PHP, Laravel, MySQL, Livewire, Alpine.js, and Tailwind CSS**. I'm comfortable owning a project end to end, from database design and authentication to payment integration and deployment.
+I'm Shihab Uddin, a Software Developer focused on building scalable web applications and backend systems.
+
+I specialize in PHP, Laravel, MySQL, JavaScript, Livewire, Alpine.js, and Tailwind CSS.
+
+I have hands-on experience developing business management systems, POS and inventory platforms, database-driven applications, REST APIs, and enterprise management solutions.
+
+I enjoy writing clean, maintainable code, designing efficient database structures, refactoring legacy applications, and solving complex software problems.
+
+**Tech Stack:** PHP · Laravel · MySQL · JavaScript · Livewire · Alpine.js · Tailwind CSS · Git
+
+📍 Dhaka, Bangladesh
 
 - 🧱 I like clean, maintainable code: services, repositories, and organized architecture
 - 🔧 I enjoy refactoring legacy code and optimizing database queries
