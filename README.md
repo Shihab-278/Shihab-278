@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shihab Uddin 👋</h1>
-<h3 align="center">Software Developer · Laravel · PHP · Flutter</h3>
+<h3 align="center">Software Developer | Laravel & PHP Developer | Backend Development | MySQL</h3>
 <p align="center">📍 Dhaka, Bangladesh</p>
 
 ---
